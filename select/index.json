@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "キミシニタモウコトナカレ",
+  "base_artist": "May'n",
+  "createdAt": "2025-12-30T16:37:29.860509Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キミシニタモウコトナカレ",
+      "artist": "May’n",
+      "has_synced": true,
+      "path": "select/01_キミシニタモウコトナカレ_May’n.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キミシニタモウコトナカレ",
+      "artist": "May'n",
+      "has_synced": true,
+      "path": "select/02_キミシニタモウコトナカレ_May'n.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キミシニタモウコトナカレ (Re-Recording)",
+      "artist": "May'n",
+      "has_synced": true,
+      "path": "select/03_キミシニタモウコトナカレ_(Re-Recording)_May'n.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キミシニタモウコトナカレ (without May’n)",
+      "artist": "May’n",
+      "has_synced": true,
+      "path": "select/04_キミシニタモウコトナカレ_(without_May’n)_May’n.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミシニタモウコトナカレ",
+      "artist": "May'n",
+      "has_synced": false,
+      "path": "select/pl_01_キミシニタモウコトナカレ_May'n.txt"
+    }
+  ]
+}
